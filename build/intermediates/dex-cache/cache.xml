@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kluz/Desktop/CardView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5a1dafede63d0d9b3c1eb3819f8001a7d83f4f8a">
+        <dex dex="/home/kluz/Desktop/CardView/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_4b6cb0d250d84142bf9809f175bfe7ebd84a680a.jar" />
+    </item>
+
+</items>
