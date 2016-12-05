@@ -1,1 +1,3 @@
 # CardView
+This is just and example of cardview.Clicking on any item on the Cardview and passing data of that particular item to another activity.
+Credit to http://www.androidhive.info/ cause they own the rights of the source code i just modified. Visit http://www.androidhive.info/ for more android tutorials for beginers.
